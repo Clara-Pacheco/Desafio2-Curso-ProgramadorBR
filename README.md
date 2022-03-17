@@ -13,4 +13,4 @@ Utilize o conceito de listas para criar os links para as redes sociais
 
 <br>
 
-![Modelo do desafio](https://github.com/Clara-Pacheco/Desafio2-Curso-ProgramadorBR/blob/main/.gitignore)
+![Modelo do desafio](https://github.com/Clara-Pacheco/Desafio2-Curso-ProgramadorBR/blob/main/assets/Modelo.png)
