@@ -8,7 +8,8 @@ O desafio desse módulo é criar um cartão de visitas como o modelo em anexo.
 
 Dicas:
 
-O tamanho utilizado foi 400px x 200px
+O tamanho utilizado foi 400px x 200px.
+
 Utilize o conceito de listas para criar os links para as redes sociais
 
 <br>
